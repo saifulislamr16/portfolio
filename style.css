@@ -1,0 +1,151 @@
+.background1{
+    height: 600px;
+    background-image: url("banner1.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.div1{
+    padding: 100px 200px 0px 750px; 
+}
+.div2{
+    padding: 0px 200px 0px 750px;
+    margin-top: -30px;
+}
+.div3{
+    padding-left:1040px;
+}
+.first_heading{
+    font-size:50px;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-align: right;
+}
+.first_detail{
+    text-align: right;
+}
+.btn{
+    background-color: #f15b22;
+    border: 0px;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+.part_2{
+    margin: 100px;
+    text-align: left;
+    display: flex;
+    justify-content: space-evenly;
+}
+.second_heading{
+    font-size:30px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.second_detail{
+    color: #444343;
+    font-family:'Times New Roman';
+}
+i{
+    margin-right:8px;
+    color: #16d887;
+}
+.portion{
+    padding-top: 200px;
+    margin-left: 80px;
+}
+.section{
+    margin:50px 200px 100px 200px
+}
+.plan{
+    text-align: center;
+    font-size:30px;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-bottom: 60px;
+}
+.icons{
+    display: flex;
+    justify-content: space-between;
+}
+.option{
+    display: inline-block;
+    align-items: center;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.second_section{
+    height:300px;
+    width: 940px;
+    margin: 100px 200px 170px 200px;
+    background-image: linear-gradient(to right, rgba(239,91,34, 1), rgba(239,91,34, 0)), url("watch.png");
+    background-repeat: no-repeat;
+    border-radius: 10px;
+}
+.fifth_heading{
+    color:white;
+    font-size:40px;
+    font-weight: bold;
+    font-family: sans-serif;
+    padding: 70px 0px 0px 70px;
+}
+footer{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.div_padding{
+    padding: 80px 170px 80px 170px;
+}
+.third_heading{
+    font-size:30px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.third_detail{
+    font-family:'Times New Roman';
+    margin-top: -10px;
+}
+.footer_icons{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 230px;
+    margin-top: 40px
+}
+.fourth_heading{
+    font-size:20px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.second_div_padding{
+    padding: 80px 170px 80px 0px;
+}
+input{
+    border: 1px solid white;
+    background-color: black;
+    padding: 10px;
+    border-radius: 5px;
+    color:white
+}
+.subs{
+    color:#f15b22;
+    font-weight: bold;
+    background-color: white;
+    border-radius: 7px;
+    padding: 10px 15px 10px 15px;
+    margin-top: 10px;
+}
+.call{
+    color:#f15b22;
+    font-weight: bold;
+    background-color: white;
+    border-radius: 5px;
+    border: 0px;
+    padding: 15px 30px;
+    margin-left: 70px;
+    margin-top: -10px;
+    font-size: large;
+}

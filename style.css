@@ -79,7 +79,7 @@ i{
 .second_section{
     height:300px;
     width: 940px;
-    margin: 100px 200px 170px 200px;
+    margin: 100px 200px 100px 200px;
     background-image: linear-gradient(to right, rgba(239,91,34, 1), rgba(239,91,34, 0)), url("watch.png");
     background-repeat: no-repeat;
     border-radius: 10px;
@@ -148,4 +148,25 @@ input{
     margin-left: 70px;
     margin-top: -10px;
     font-size: large;
+}
+.extra{
+    margin:50px 200px 100px 200px;
+}
+.b{
+    border: 3px solid gold;
+}
+.quote{
+    padding-left: 40px;
+    font-family: 'Arial Narrow Bold';
+    color:black;
+    font-weight: bold;
+    font-size: 25px;
+    font-style: italic;
+}
+.second_plan{
+    text-align: center;
+    font-size:30px;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-bottom: 40px;
 }
